@@ -10,7 +10,8 @@ Sub-Problems.
    - Sub-Solution. The recipe generator could filter the recipe database to only include recipes that are relatively easy to make.
 
 3. Recipe Information.
-   - Sub-Problem. A user may be unskilled in cooking or not able to read the instructions for a recipe because they are in a foreign language.
+   - Sub-Problem. A user may be unskilled in cooking or not able to read the instructions for a recipe because they are in a foreign 
+ language.
    - Sub-Solution. The recipe generator could translate the instructions for the recipe into the user's preferred language.
 
 Functions Necessary.
